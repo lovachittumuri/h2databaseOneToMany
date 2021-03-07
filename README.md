@@ -20,11 +20,17 @@ Here is the Application Properties details
 server.port=9999
 
 spring.datasource.url=jdbc:h2:mem:testdb
+
 spring.datasource.platform=h2
+
 spring.h2.console.enabled=true
+
 spring.jpa.hibernate.ddl-auto=update
+
 spring.datasource.initialization-mode=always
+
 spring.datasource.username=lova
+
 spring.datasource.password=lova
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
